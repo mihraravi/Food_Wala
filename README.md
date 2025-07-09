@@ -25,9 +25,6 @@ Welcome to the Food Ordering Website project! This is a mini project created wit
 ### Single Food Page
 ![Single Food Page](screenshots/screnshot6.png)
 
-### Profile Page
-![Profile Page](screenshots/screenshot7.png)
-
 ### Cart Page
 ![Cart Page](screenshots/screenshot8.png)
 
